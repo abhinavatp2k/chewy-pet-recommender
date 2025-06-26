@@ -53,7 +53,9 @@ st.set_page_config(page_title="Dog Product Recommender 🐾", page_icon="🐶")
 st.title("🐶 Dog Product Recommender")
 
 # --- User Inputs
-breed   = st.selectbox("Select Breed", sorted(breed_df["breed"].unique()))
+# Get the breeds used during training
+breeds = encoder.classes_.tolist()
+breed = st.selectbox("Select Breed", breeds)
 weight  = st.number_input("Weight (kg)", min_value=1.0, step=0.5)
 height  = st.number_input("Height at shoulder (cm)", min_value=5.0, step=0.5)
 symptom = st.text_area("Describe your dog's main symptom / issue", placeholder="e.g. itchy skin and shedding")
