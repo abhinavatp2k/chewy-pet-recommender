@@ -65,7 +65,7 @@ if st.button("Get Recommendations"):
 
     # ----- Prediction
     # Very tiny encoders: convert breed + symptom into encoded features
-    breed_enc   = encoder.transform([model.classes_[0]])[0]  # placeholder not used
+    breed_enc = encoder.transform([breed])[0]
     symptom_enc = encoder.transform([encoder.classes_[0]])[0]  # likewise
 
     # Quick re-encode with fit classes (simulate)
