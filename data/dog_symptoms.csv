@@ -1,0 +1,301 @@
+breed,weight,height,symptom,product_category
+Poodle,25,28,joint pain,Joint Support
+Golden Retriever,50,22,sensitive stomach,Weight Management
+Labrador,20,22,ear scratching,Hygiene
+Golden Retriever,50,28,sensitive stomach,Weight Management
+Poodle,30,22,itchy skin,Hypoallergenic Shampoo
+Beagle,50,24,itchy skin,Hypoallergenic Shampoo
+Beagle,30,28,itchy skin,Hypoallergenic Shampoo
+Beagle,40,22,joint pain,Joint Support
+German Shepherd,30,26,joint pain,Joint Support
+Labrador,25,26,ear scratching,Hygiene
+Labrador,30,20,weight gain,Weight Management
+Beagle,35,18,joint pain,Joint Support
+Beagle,35,18,bad breath,Dental Chews
+Beagle,50,22,joint pain,Joint Support
+German Shepherd,50,28,bad breath,Dental Chews
+Labrador,50,20,ear scratching,Hygiene
+Beagle,40,22,sensitive stomach,Weight Management
+Poodle,35,20,sensitive stomach,Weight Management
+Beagle,35,28,joint pain,Joint Support
+German Shepherd,40,22,ear scratching,Hygiene
+Poodle,30,24,sensitive stomach,Weight Management
+Golden Retriever,25,24,itchy skin,Hypoallergenic Shampoo
+German Shepherd,40,26,weight gain,Weight Management
+Golden Retriever,50,24,joint pain,Joint Support
+Poodle,50,20,sensitive stomach,Weight Management
+Poodle,30,24,bad breath,Dental Chews
+Poodle,30,22,bad breath,Dental Chews
+Labrador,40,18,weight gain,Weight Management
+German Shepherd,35,28,itchy skin,Hypoallergenic Shampoo
+Golden Retriever,20,24,ear scratching,Hygiene
+Golden Retriever,40,20,sensitive stomach,Weight Management
+German Shepherd,50,18,joint pain,Joint Support
+Golden Retriever,35,20,weight gain,Weight Management
+Beagle,35,28,ear scratching,Hygiene
+Golden Retriever,20,26,itchy skin,Hypoallergenic Shampoo
+Labrador,25,26,ear scratching,Hygiene
+Golden Retriever,25,24,weight gain,Weight Management
+German Shepherd,25,20,joint pain,Joint Support
+Golden Retriever,40,24,sensitive stomach,Weight Management
+Labrador,40,22,itchy skin,Hypoallergenic Shampoo
+Poodle,40,28,sensitive stomach,Weight Management
+Beagle,30,24,itchy skin,Hypoallergenic Shampoo
+Beagle,25,22,ear scratching,Hygiene
+Poodle,20,28,bad breath,Dental Chews
+Labrador,35,18,sensitive stomach,Weight Management
+German Shepherd,20,18,sensitive stomach,Weight Management
+Golden Retriever,50,22,ear scratching,Hygiene
+German Shepherd,30,24,bad breath,Dental Chews
+German Shepherd,20,26,sensitive stomach,Weight Management
+Poodle,20,18,bad breath,Dental Chews
+Beagle,20,24,weight gain,Weight Management
+Poodle,30,20,weight gain,Weight Management
+Golden Retriever,30,24,itchy skin,Hypoallergenic Shampoo
+German Shepherd,40,28,joint pain,Joint Support
+Beagle,20,26,ear scratching,Hygiene
+Golden Retriever,50,28,sensitive stomach,Weight Management
+German Shepherd,20,28,weight gain,Weight Management
+Labrador,50,24,joint pain,Joint Support
+Golden Retriever,30,20,sensitive stomach,Weight Management
+Labrador,35,22,sensitive stomach,Weight Management
+Poodle,25,20,bad breath,Dental Chews
+German Shepherd,20,26,weight gain,Weight Management
+Beagle,25,24,joint pain,Joint Support
+German Shepherd,50,26,weight gain,Weight Management
+Beagle,40,18,sensitive stomach,Weight Management
+German Shepherd,20,26,itchy skin,Hypoallergenic Shampoo
+Poodle,40,18,bad breath,Dental Chews
+Labrador,20,28,weight gain,Weight Management
+Golden Retriever,20,26,joint pain,Joint Support
+Poodle,20,22,bad breath,Dental Chews
+German Shepherd,25,26,ear scratching,Hygiene
+Poodle,30,28,bad breath,Dental Chews
+Poodle,30,26,ear scratching,Hygiene
+Golden Retriever,40,18,sensitive stomach,Weight Management
+Labrador,30,18,ear scratching,Hygiene
+German Shepherd,40,24,joint pain,Joint Support
+Poodle,50,20,weight gain,Weight Management
+Poodle,25,28,ear scratching,Hygiene
+Beagle,20,18,ear scratching,Hygiene
+Poodle,20,22,weight gain,Weight Management
+Labrador,25,20,sensitive stomach,Weight Management
+Labrador,35,24,sensitive stomach,Weight Management
+Labrador,40,28,joint pain,Joint Support
+German Shepherd,25,22,bad breath,Dental Chews
+Golden Retriever,20,26,sensitive stomach,Weight Management
+Poodle,20,22,sensitive stomach,Weight Management
+Beagle,35,26,sensitive stomach,Weight Management
+Labrador,50,26,itchy skin,Hypoallergenic Shampoo
+Labrador,50,24,itchy skin,Hypoallergenic Shampoo
+Poodle,40,28,sensitive stomach,Weight Management
+Golden Retriever,35,22,joint pain,Joint Support
+Golden Retriever,30,26,weight gain,Weight Management
+Beagle,50,24,bad breath,Dental Chews
+Poodle,35,20,weight gain,Weight Management
+Labrador,20,20,ear scratching,Hygiene
+Poodle,20,24,sensitive stomach,Weight Management
+Labrador,40,28,sensitive stomach,Weight Management
+Beagle,50,24,itchy skin,Hypoallergenic Shampoo
+Golden Retriever,35,18,ear scratching,Hygiene
+German Shepherd,35,26,itchy skin,Hypoallergenic Shampoo
+Golden Retriever,30,20,joint pain,Joint Support
+German Shepherd,30,20,weight gain,Weight Management
+Beagle,40,26,weight gain,Weight Management
+German Shepherd,40,28,itchy skin,Hypoallergenic Shampoo
+Beagle,30,28,itchy skin,Hypoallergenic Shampoo
+German Shepherd,50,18,weight gain,Weight Management
+German Shepherd,30,26,bad breath,Dental Chews
+Golden Retriever,20,18,weight gain,Weight Management
+Poodle,25,26,ear scratching,Hygiene
+Labrador,25,28,joint pain,Joint Support
+Labrador,25,26,bad breath,Dental Chews
+Labrador,40,18,ear scratching,Hygiene
+Labrador,25,24,joint pain,Joint Support
+Poodle,30,26,sensitive stomach,Weight Management
+Beagle,50,22,ear scratching,Hygiene
+German Shepherd,25,28,weight gain,Weight Management
+Golden Retriever,50,18,joint pain,Joint Support
+Labrador,40,24,bad breath,Dental Chews
+Beagle,35,22,bad breath,Dental Chews
+Labrador,25,26,itchy skin,Hypoallergenic Shampoo
+Poodle,30,28,joint pain,Joint Support
+German Shepherd,20,20,joint pain,Joint Support
+Beagle,40,26,bad breath,Dental Chews
+Golden Retriever,50,28,ear scratching,Hygiene
+Golden Retriever,40,26,sensitive stomach,Weight Management
+German Shepherd,20,28,bad breath,Dental Chews
+Poodle,20,28,weight gain,Weight Management
+German Shepherd,20,18,sensitive stomach,Weight Management
+Golden Retriever,35,28,bad breath,Dental Chews
+Labrador,30,18,ear scratching,Hygiene
+Labrador,30,18,bad breath,Dental Chews
+Poodle,20,28,itchy skin,Hypoallergenic Shampoo
+Poodle,40,18,itchy skin,Hypoallergenic Shampoo
+German Shepherd,25,28,weight gain,Weight Management
+Golden Retriever,20,18,joint pain,Joint Support
+German Shepherd,25,26,joint pain,Joint Support
+Beagle,20,20,ear scratching,Hygiene
+German Shepherd,35,20,ear scratching,Hygiene
+Golden Retriever,25,26,ear scratching,Hygiene
+Golden Retriever,50,22,joint pain,Joint Support
+Labrador,50,26,joint pain,Joint Support
+Golden Retriever,20,18,itchy skin,Hypoallergenic Shampoo
+Beagle,30,20,weight gain,Weight Management
+Poodle,20,18,joint pain,Joint Support
+Labrador,40,22,bad breath,Dental Chews
+Labrador,25,28,ear scratching,Hygiene
+German Shepherd,25,18,bad breath,Dental Chews
+Beagle,40,18,ear scratching,Hygiene
+Golden Retriever,20,20,sensitive stomach,Weight Management
+Golden Retriever,40,24,joint pain,Joint Support
+Poodle,25,24,bad breath,Dental Chews
+Beagle,20,18,weight gain,Weight Management
+Labrador,50,22,ear scratching,Hygiene
+Labrador,20,28,sensitive stomach,Weight Management
+German Shepherd,40,28,weight gain,Weight Management
+Beagle,25,22,joint pain,Joint Support
+German Shepherd,25,20,itchy skin,Hypoallergenic Shampoo
+Poodle,50,24,itchy skin,Hypoallergenic Shampoo
+Poodle,50,26,joint pain,Joint Support
+Poodle,20,22,itchy skin,Hypoallergenic Shampoo
+Golden Retriever,20,18,itchy skin,Hypoallergenic Shampoo
+German Shepherd,20,20,sensitive stomach,Weight Management
+German Shepherd,40,22,ear scratching,Hygiene
+Poodle,50,20,ear scratching,Hygiene
+Beagle,50,20,weight gain,Weight Management
+Labrador,50,18,joint pain,Joint Support
+Beagle,35,20,sensitive stomach,Weight Management
+Beagle,40,28,sensitive stomach,Weight Management
+Beagle,20,18,weight gain,Weight Management
+Beagle,40,22,itchy skin,Hypoallergenic Shampoo
+German Shepherd,30,22,joint pain,Joint Support
+Poodle,30,26,bad breath,Dental Chews
+Golden Retriever,20,26,joint pain,Joint Support
+Poodle,20,20,itchy skin,Hypoallergenic Shampoo
+Poodle,20,22,itchy skin,Hypoallergenic Shampoo
+Labrador,20,26,ear scratching,Hygiene
+Poodle,25,20,ear scratching,Hygiene
+German Shepherd,40,24,itchy skin,Hypoallergenic Shampoo
+Golden Retriever,40,18,joint pain,Joint Support
+Poodle,25,18,bad breath,Dental Chews
+Labrador,35,28,ear scratching,Hygiene
+Golden Retriever,20,24,weight gain,Weight Management
+Golden Retriever,20,18,itchy skin,Hypoallergenic Shampoo
+Poodle,40,22,ear scratching,Hygiene
+German Shepherd,40,20,bad breath,Dental Chews
+Labrador,20,18,bad breath,Dental Chews
+Beagle,40,28,sensitive stomach,Weight Management
+German Shepherd,30,20,ear scratching,Hygiene
+German Shepherd,35,26,sensitive stomach,Weight Management
+Poodle,25,22,bad breath,Dental Chews
+German Shepherd,50,24,weight gain,Weight Management
+Labrador,25,28,weight gain,Weight Management
+German Shepherd,20,20,joint pain,Joint Support
+German Shepherd,30,22,joint pain,Joint Support
+German Shepherd,50,20,ear scratching,Hygiene
+Beagle,30,28,weight gain,Weight Management
+Labrador,20,24,weight gain,Weight Management
+Labrador,35,20,weight gain,Weight Management
+German Shepherd,30,26,itchy skin,Hypoallergenic Shampoo
+German Shepherd,35,28,ear scratching,Hygiene
+Beagle,20,22,ear scratching,Hygiene
+Beagle,40,18,bad breath,Dental Chews
+Poodle,30,20,ear scratching,Hygiene
+Poodle,35,24,weight gain,Weight Management
+Poodle,40,20,joint pain,Joint Support
+Labrador,40,18,sensitive stomach,Weight Management
+Beagle,40,20,itchy skin,Hypoallergenic Shampoo
+Labrador,30,24,bad breath,Dental Chews
+Poodle,50,20,bad breath,Dental Chews
+Golden Retriever,20,22,weight gain,Weight Management
+Labrador,25,28,sensitive stomach,Weight Management
+Poodle,25,28,ear scratching,Hygiene
+Golden Retriever,50,18,joint pain,Joint Support
+German Shepherd,30,24,itchy skin,Hypoallergenic Shampoo
+Labrador,25,28,bad breath,Dental Chews
+Golden Retriever,40,18,joint pain,Joint Support
+Labrador,30,28,weight gain,Weight Management
+Beagle,50,26,sensitive stomach,Weight Management
+German Shepherd,50,22,weight gain,Weight Management
+German Shepherd,25,22,sensitive stomach,Weight Management
+Beagle,35,20,ear scratching,Hygiene
+German Shepherd,40,28,itchy skin,Hypoallergenic Shampoo
+Golden Retriever,25,20,joint pain,Joint Support
+Poodle,40,20,joint pain,Joint Support
+Poodle,35,18,sensitive stomach,Weight Management
+Poodle,25,20,sensitive stomach,Weight Management
+Labrador,40,28,sensitive stomach,Weight Management
+Poodle,20,28,bad breath,Dental Chews
+Beagle,25,20,ear scratching,Hygiene
+Labrador,20,20,itchy skin,Hypoallergenic Shampoo
+German Shepherd,35,18,sensitive stomach,Weight Management
+Labrador,20,26,sensitive stomach,Weight Management
+Poodle,25,24,bad breath,Dental Chews
+Golden Retriever,35,28,itchy skin,Hypoallergenic Shampoo
+Labrador,30,24,bad breath,Dental Chews
+Poodle,50,20,ear scratching,Hygiene
+Beagle,35,24,ear scratching,Hygiene
+Golden Retriever,40,22,itchy skin,Hypoallergenic Shampoo
+Beagle,35,20,bad breath,Dental Chews
+Poodle,50,28,sensitive stomach,Weight Management
+Labrador,35,18,itchy skin,Hypoallergenic Shampoo
+Golden Retriever,30,20,joint pain,Joint Support
+Labrador,20,24,sensitive stomach,Weight Management
+Golden Retriever,30,28,weight gain,Weight Management
+Golden Retriever,35,18,itchy skin,Hypoallergenic Shampoo
+Beagle,40,26,itchy skin,Hypoallergenic Shampoo
+Golden Retriever,50,26,sensitive stomach,Weight Management
+Beagle,40,18,bad breath,Dental Chews
+German Shepherd,20,24,itchy skin,Hypoallergenic Shampoo
+Poodle,30,28,itchy skin,Hypoallergenic Shampoo
+German Shepherd,50,22,weight gain,Weight Management
+German Shepherd,30,26,weight gain,Weight Management
+Golden Retriever,35,22,itchy skin,Hypoallergenic Shampoo
+Golden Retriever,50,18,ear scratching,Hygiene
+German Shepherd,50,24,bad breath,Dental Chews
+Golden Retriever,20,28,itchy skin,Hypoallergenic Shampoo
+Poodle,35,20,bad breath,Dental Chews
+Beagle,35,22,ear scratching,Hygiene
+German Shepherd,40,22,ear scratching,Hygiene
+German Shepherd,25,20,joint pain,Joint Support
+Golden Retriever,35,20,itchy skin,Hypoallergenic Shampoo
+Poodle,50,28,weight gain,Weight Management
+German Shepherd,20,20,weight gain,Weight Management
+German Shepherd,25,22,joint pain,Joint Support
+German Shepherd,25,28,itchy skin,Hypoallergenic Shampoo
+German Shepherd,50,28,bad breath,Dental Chews
+Beagle,20,24,bad breath,Dental Chews
+Labrador,20,20,bad breath,Dental Chews
+Beagle,35,26,ear scratching,Hygiene
+Poodle,25,22,sensitive stomach,Weight Management
+Labrador,50,22,itchy skin,Hypoallergenic Shampoo
+Poodle,50,26,bad breath,Dental Chews
+German Shepherd,50,22,bad breath,Dental Chews
+Labrador,20,26,weight gain,Weight Management
+Poodle,50,24,bad breath,Dental Chews
+German Shepherd,40,18,joint pain,Joint Support
+Beagle,25,22,itchy skin,Hypoallergenic Shampoo
+German Shepherd,30,26,weight gain,Weight Management
+Labrador,30,22,joint pain,Joint Support
+Beagle,25,26,joint pain,Joint Support
+Labrador,50,20,ear scratching,Hygiene
+Labrador,50,28,joint pain,Joint Support
+Beagle,40,24,itchy skin,Hypoallergenic Shampoo
+Golden Retriever,25,24,ear scratching,Hygiene
+Beagle,50,18,bad breath,Dental Chews
+Poodle,30,18,bad breath,Dental Chews
+Poodle,30,22,itchy skin,Hypoallergenic Shampoo
+German Shepherd,25,18,ear scratching,Hygiene
+Labrador,20,26,sensitive stomach,Weight Management
+Beagle,30,28,bad breath,Dental Chews
+Golden Retriever,50,24,ear scratching,Hygiene
+German Shepherd,50,26,weight gain,Weight Management
+Golden Retriever,40,20,sensitive stomach,Weight Management
+Poodle,50,18,weight gain,Weight Management
+Golden Retriever,20,28,bad breath,Dental Chews
+Labrador,35,28,joint pain,Joint Support
+Poodle,25,28,sensitive stomach,Weight Management
+German Shepherd,50,26,ear scratching,Hygiene
+Golden Retriever,20,26,itchy skin,Hypoallergenic Shampoo
+Labrador,20,26,ear scratching,Hygiene
